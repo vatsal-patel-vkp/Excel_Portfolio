@@ -16,6 +16,5 @@ I have created different files to showcase all my work in this repository for be
 At last, there are many projects on excel with different datasets to solve the problem.
 
 Below are the projects I conducted using my excel knowledge:
-```
-* [Pivot Tables in Excel] (https://github.com/vatsal-patel-vkp/Pivot-Tables-in-Excel/)
-```
+
+* [Pivot Tables in Excel](https://github.com/vatsal-patel-vkp/Pivot-Tables-in-Excel/blob/main/README.md)
