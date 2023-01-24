@@ -1,4 +1,4 @@
-# Excel-Analysis
+# Excel Analysis
 This repository is mainly used to showcase my analysis using advanced excel methodolgy.
 
 I performed this projects using various tools present in excel
