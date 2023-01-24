@@ -1,14 +1,14 @@
 # Excel Analysis
-This repository is mainly used to showcase my analysis using advanced excel methodolgy.
+This repository is mainly used to showcase my analysis portfolio using advanced excel methodolgy.
 
-I performed this projects using various tools present in excel
+I have performed this projects using various tools present in excel
 ```
 -> Formulas in excel
 -> Conditional Formatting 
 -> VLOOKUP and XLOOKUP
 -> Pivot Tables
 -> Excel charts
--> PowerQuery
+-> Power Query
 -> Cleaning Data in Excel
 -> Analyze data
 ```
