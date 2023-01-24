@@ -17,5 +17,5 @@ At last, there are many projects on excel with different datasets to solve the p
 
 Below are the projects I conducted using my excel knowledge:
 ```
-[Pivot Tables in Excel]
+[Pivot Tables in Excel] (https://github.com/vatsal-patel-vkp/Pivot-Tables-in-Excel)
 ```
