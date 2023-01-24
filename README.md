@@ -14,3 +14,8 @@ I have performed this projects using various tools present in excel
 ```
 I have created different files to showcase all my work in this repository for better understanding.
 At last, there are many projects on excel with different datasets to solve the problem.
+
+Below are the projects I conducted using my excel knowledge:
+```
+[Pivot Tables in Excel]
+```
