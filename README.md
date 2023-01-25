@@ -18,3 +18,4 @@ At last, there are many projects on excel with different datasets to solve the p
 Below are the projects I conducted using my excel knowledge:
 
 * [Pivot Tables in Excel](https://github.com/vatsal-patel-vkp/Pivot-Tables-in-Excel/blob/main/README.md)
+* [Bank Analysis using excel](https://github.com/vatsal-patel-vkp/Bank_Analysis_Using_Excel/blob/main/README.md)
