@@ -1,4 +1,4 @@
-# Excel Analysis
+# **Excel Portfolio**
 This repository is mainly used to showcase my analysis portfolio using advanced excel methodolgy.
 
 I have performed this projects using various tools present in excel
